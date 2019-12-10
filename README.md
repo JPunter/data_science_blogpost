@@ -3,7 +3,7 @@ Data analysis repository for Udacity Data Scientist Nanodegree blogpost project
 
 # Installation 
 Extra libraries that are not installed with the Anaconda distribution, as well as what what version of python you are using should be noted.
-There should be no neccessary additional libraries required other than the ones installed by default with Anaconda Python.
+Additional library requirements can be found in 'requirements.txt'.
 Python 3.* should allow the code to run without issues
 
 # Project Motivation
