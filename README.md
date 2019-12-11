@@ -10,8 +10,7 @@ Python 3.* should allow the code to run without issues
 For this project I was interested in international health statistics to better understand:
 1. What factors most affect life expectancy?
 2. What countries of the world have the highest and lowest life expectancy? Why?
-3. How does development status affect life expectancy?
-4. Can life expectancy be predicted based on the data available here?
+3. Can life expectancy be predicted based on the data available here?
 
 # File Descriptions
 .ipynb files: Features all actual working code
