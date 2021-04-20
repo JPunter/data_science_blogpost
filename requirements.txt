@@ -36,7 +36,7 @@ pandocfilters==1.4.2
 phik==0.9.8
 plotly==4.4.0
 pluggy==0.13.1
-py==1.8.0
+py==1.10.0
 Pygments==2.5.2
 pylint==2.4.4
 pyparsing==2.4.5
