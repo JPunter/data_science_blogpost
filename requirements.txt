@@ -15,7 +15,7 @@ Jinja2==2.11.3
 joblib==0.14.1
 jsonschema==3.2.0
 jupyter-client==5.3.4
-jupyter-core==4.6.1
+jupyter-core==4.11.2
 kiwisolver==1.1.0
 lazy-object-proxy==1.4.3
 llvmlite==0.30.0
